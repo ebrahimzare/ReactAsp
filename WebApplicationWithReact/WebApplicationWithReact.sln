@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationWithReact", "WebApplicationWithReact\WebApplicationWithReact.csproj", "{51AB4ACF-76CE-4135-8CC2-535FB590A1FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51AB4ACF-76CE-4135-8CC2-535FB590A1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AB4ACF-76CE-4135-8CC2-535FB590A1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AB4ACF-76CE-4135-8CC2-535FB590A1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AB4ACF-76CE-4135-8CC2-535FB590A1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79CF58BB-49D8-4E97-AEB8-4039DC427FA4}
+	EndGlobalSection
+EndGlobal
